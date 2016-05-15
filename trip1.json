@@ -1,0 +1,20 @@
+{
+    "FARE": 74.11,
+    "S_CODE": "*",
+    "S_CITY": "Dallas/Fort Worth TX",
+    "E_CODE": "*",
+    "E_CITY": "Amarillo TX",
+    "COUPON": 1,
+    "NEW": 3,
+    "VACATION": "No",
+    "SW": "Yes",
+    "HI": 5291.99,
+    "S_INCOME": 28637,
+    "E_INCOME": 21112,
+    "S_POP": 3036732,
+    "E_POP": 205711,
+    "SLOT": "Free",
+    "GATE": "Free",
+    "DISTANCE": 312,
+    "PAX": 7864
+}
